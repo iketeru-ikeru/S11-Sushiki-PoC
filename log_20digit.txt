@@ -1,0 +1,8 @@
+Target: 100000000000000000000
+Sushiki: 100000000000039
+True   : 100000000000039
+Match  : True
+Error  : 0
+Time   : 17842.31s
+CPU    : 1 core
+Date   : 2026-05-09
